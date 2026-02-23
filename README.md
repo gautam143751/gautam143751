@@ -1,6 +1,6 @@
 # Gotham · Product Manager & 0→1 App Builder
 
-> I turn ambiguous problems into shipped products — fast.
+> I turn ambiguous problems into shipped products — fast. Currently working on something in **Stealth** !
 
 ---
 
